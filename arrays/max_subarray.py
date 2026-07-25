@@ -19,7 +19,7 @@ def max_arrsum(nums):
 print(max_arrsum(nums))
 
 
-# Optimal Solution
+# Optimal Solution  #Kadane Theorem
 
 nums=[-1,2,4,-7,5,8,10]
 
