@@ -58,6 +58,7 @@ sll.append(50)
 print(sll.cycle())
 
 
+
 # Optimal Solution
 
 class Node:
@@ -99,14 +100,15 @@ class SinglyLinkedList:
             fast=fast.next.next
 
             if slow==fast:
-                slow=self.head
+                slow=slow.next
+                count+=1
 
                 while slow!=fast:
                     slow=slow.next
-                    fast=fast.next
-                return slow
+                    count+=1
+                return count
             
-        return None
+        return 0
 
 # Create Cycle (50 -> 30)
 
