@@ -66,20 +66,17 @@ dsa-journey/
 └── README.md
 ```
 
+
 ## 📈 Current Progress
 
-- **DSA Streak:** Day 114 completed
-- **Playlist Progress:** Part 158
-- **Programming Language:** Python
-- **Current Focus:** Graph Algorithms and Disjoint Set (Union-Find)
-- **Latest Topics:**
-  - Bellman-Ford Algorithm
-  - Floyd-Warshall Algorithm
-  - Minimum Spanning Tree (MST)
-  - Prim's Algorithm
-  - Disjoint Set (Union-Find)
-  - Path Compression
-  - Union by Size
+I'm consistently improving my Data Structures and Algorithms skills through daily problem-solving and concept-based learning.
+
+This repository is updated regularly with:
+- New DSA concepts and algorithm implementations.
+- Solutions to LeetCode and GeeksforGeeks problems.
+- Python implementations with a focus on problem-solving.
+- Learning progress across different DSA topics.
+
 
 ## 💻 Problem-Solving Platforms
 
