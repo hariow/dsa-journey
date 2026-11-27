@@ -37,8 +37,8 @@ My goal is to strengthen problem-solving skills, understand core algorithms, and
 | Stacks & Queues | Practiced |
 | Greedy Algorithms | Practiced |
 | Binary Trees & BST | Practiced |
-| Graphs | In Progress |
-| Dynamic Programming | To Explore |
+| Graphs | Practiced |
+| Dynamic Programming | In Progress |
 
 *Progress labels represent my learning journey, not complete mastery of every topic.*
 
